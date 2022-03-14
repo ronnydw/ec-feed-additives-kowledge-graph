@@ -1,0 +1,10 @@
+# EC DG Sante - migration of feed additives data to Food Information Portal (FIP)
+
+## Authorisation register
+
+Word/xls register to be imported in FIP
+
+## Authorisation dossier followup
+
+MS-AccessDB to be migrated
+Find here neo4j scripts to load the exported accessDB CSV tables into neo4j and create exploratory knowledge graphs
